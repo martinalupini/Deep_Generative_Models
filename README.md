@@ -1,4 +1,4 @@
-# Deep_Generative_Models
+# Deep Generative Models
 
 This repository contains four projects related to the course of _Deep Generative Models_ at _Ghent University_. All the projects are made in collaboration with another Erasmus student. 
 
